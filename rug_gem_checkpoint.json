@@ -1,0 +1,939 @@
+{
+  "results": {
+    "ethereum:0xC32dB1D3282e872d98f6437D3BCFa57801CA6d5c": {
+      "address": "0xC32dB1D3282e872d98f6437D3BCFa57801CA6d5c",
+      "symbol": "ETHEREUM",
+      "name": "ETHEREUM (VoldemortTrumpRobotnik-10Neko)",
+      "chain": "ethereum",
+      "score": 100,
+      "liquidity_usd": 71460.51,
+      "positives": [
+        "Nao e honeypot",
+        "Liquidez travada 100%",
+        "Ownership renunciado",
+        "Taxa baixa (buy 0.0% / sell 1.0%)",
+        "Contrato verificado",
+        "Liquidez $71,461"
+      ],
+      "negatives": [
+        "Concentrado: top10 tem 65%"
+      ],
+      "data_sources": "GoPlus | Honeypot | Etherscan",
+      "analyzed_at": "2026-04-17 00:56 UTC"
+    },
+    "ethereum:0xDC5E9445169C73Cf21e1da0B270e8433caC69959": {
+      "address": "0xDC5E9445169C73Cf21e1da0B270e8433caC69959",
+      "symbol": "科太币",
+      "name": "科太币 ( Ethereum)",
+      "chain": "ethereum",
+      "score": 100,
+      "liquidity_usd": 53718.33,
+      "positives": [
+        "Nao e honeypot",
+        "Liquidez travada 100%",
+        "Ownership renunciado",
+        "Taxa baixa (buy 1.0% / sell 1.0%)",
+        "Contrato verificado",
+        "Liquidez $53,718"
+      ],
+      "negatives": [
+        "Concentrado: top10 tem 78%",
+        "Blacklist de carteiras ativa"
+      ],
+      "data_sources": "GoPlus | Honeypot | Etherscan",
+      "analyzed_at": "2026-04-17 00:56 UTC"
+    },
+    "bsc:0x6331BF8D601f0D7F0d2101772af5137c418c4444": {
+      "address": "0x6331BF8D601f0D7F0d2101772af5137c418c4444",
+      "symbol": "BSC",
+      "name": "BSC (Binance Super Cycle)",
+      "chain": "bsc",
+      "score": 100,
+      "liquidity_usd": 81607.57,
+      "positives": [
+        "Nao e honeypot",
+        "Liquidez travada 100%",
+        "Ownership renunciado",
+        "Taxa baixa (buy 0.0% / sell 0.0%)",
+        "Top10 holders 33% do supply",
+        "Contrato verificado",
+        "Liquidez $81,608"
+      ],
+      "negatives": [],
+      "data_sources": "GoPlus | Etherscan",
+      "analyzed_at": "2026-04-17 00:56 UTC"
+    },
+    "bsc:0x6B4917a11BCb3BDCb545D79F211e81aa5835a3Ba": {
+      "address": "0x6B4917a11BCb3BDCb545D79F211e81aa5835a3Ba",
+      "symbol": "BSC",
+      "name": "BSC (BNB SUPER CYCLE)",
+      "chain": "bsc",
+      "score": 100,
+      "liquidity_usd": 23934.79,
+      "positives": [
+        "Nao e honeypot",
+        "Liquidez travada 100%",
+        "Ownership renunciado",
+        "Taxa baixa (buy 0.0% / sell 0.0%)",
+        "Contrato verificado"
+      ],
+      "negatives": [
+        "Concentrado: top10 tem 70%",
+        "Liquidez media $23,935"
+      ],
+      "data_sources": "GoPlus | Etherscan",
+      "analyzed_at": "2026-04-17 00:56 UTC"
+    },
+    "bsc:0x8c29fC7a43eB6dc592C1d5f06d3fD574d9Fb1fd7": {
+      "address": "0x8c29fC7a43eB6dc592C1d5f06d3fD574d9Fb1fd7",
+      "symbol": "BSC",
+      "name": "BSC (Binance Super Cycle)",
+      "chain": "bsc",
+      "score": 100,
+      "liquidity_usd": 11009.37,
+      "positives": [
+        "Nao e honeypot",
+        "Liquidez travada 100%",
+        "Ownership renunciado",
+        "Taxa baixa (buy 0.0% / sell 0.0%)",
+        "Contrato verificado"
+      ],
+      "negatives": [
+        "Concentrado: top10 tem 89%",
+        "Liquidez media $11,009"
+      ],
+      "data_sources": "GoPlus | Etherscan",
+      "analyzed_at": "2026-04-17 00:56 UTC"
+    },
+    "bsc:0x40DAC4b1C0ee85cF3574FA14a5e065CfFfD54444": {
+      "address": "0x40DAC4b1C0ee85cF3574FA14a5e065CfFfD54444",
+      "symbol": "BSC",
+      "name": "BSC (BallSackCoin)",
+      "chain": "bsc",
+      "score": 100,
+      "liquidity_usd": 4982.73,
+      "positives": [
+        "Nao e honeypot",
+        "Liquidez travada 100%",
+        "Ownership renunciado",
+        "Taxa baixa (buy 0.0% / sell 0.0%)",
+        "Contrato verificado"
+      ],
+      "negatives": [
+        "Concentrado: top10 tem 99%",
+        "Liquidez baixa $4,983"
+      ],
+      "data_sources": "GoPlus | Etherscan",
+      "analyzed_at": "2026-04-17 00:56 UTC"
+    },
+    "bsc:0xb7ad5cc845837E96a1c7B9F891548246e0F3E910": {
+      "address": "0xb7ad5cc845837E96a1c7B9F891548246e0F3E910",
+      "symbol": "BSC",
+      "name": "BSC (BSCFarm Finance)",
+      "chain": "bsc",
+      "score": 55,
+      "liquidity_usd": 201.83,
+      "positives": [
+        "Nao e honeypot",
+        "Ownership renunciado",
+        "Taxa baixa (buy 0.0% / sell 0.0%)",
+        "Contrato verificado"
+      ],
+      "negatives": [
+        "Liquidez nao travada (0%)",
+        "Concentrado: top10 tem 99%",
+        "Liquidez baixa $202",
+        "Funcao mint sem limite"
+      ],
+      "data_sources": "GoPlus | Etherscan",
+      "analyzed_at": "2026-04-17 00:56 UTC"
+    },
+    "bsc:0x58c794C81e9fEf1f3706082A09fe1C7F2dD94841": {
+      "address": "0x58c794C81e9fEf1f3706082A09fe1C7F2dD94841",
+      "symbol": "BSC",
+      "name": "BSC",
+      "chain": "bsc",
+      "score": 85,
+      "liquidity_usd": 0.11,
+      "positives": [
+        "Nao e honeypot",
+        "Ownership renunciado",
+        "Taxa baixa (buy 0.0% / sell 0.0%)",
+        "Contrato verificado"
+      ],
+      "negatives": [
+        "Liquidez nao travada (0%)",
+        "Concentrado: top10 tem 100%",
+        "Liquidez baixa $0"
+      ],
+      "data_sources": "GoPlus | Etherscan",
+      "analyzed_at": "2026-04-17 00:56 UTC"
+    },
+    "bsc:0xfC45AD458622e8b04fDb1a675B8747Dae7dCb684": {
+      "address": "0xfC45AD458622e8b04fDb1a675B8747Dae7dCb684",
+      "symbol": "BSC",
+      "name": "BSC (BSC EXCHANGE)",
+      "chain": "bsc",
+      "score": 70,
+      "liquidity_usd": 0.03,
+      "positives": [
+        "Nao e honeypot",
+        "Ownership renunciado",
+        "Taxa baixa (buy 0.0% / sell 0.0%)",
+        "Top10 holders 30% do supply",
+        "Contrato verificado"
+      ],
+      "negatives": [
+        "Liquidez nao travada (0%)",
+        "Liquidez baixa $0",
+        "Funcao mint sem limite"
+      ],
+      "data_sources": "GoPlus | Etherscan",
+      "analyzed_at": "2026-04-17 00:56 UTC"
+    },
+    "bsc:0x17bc015607Fdf93e7C949e9Ca22f96907cFBeF88": {
+      "address": "0x17bc015607Fdf93e7C949e9Ca22f96907cFBeF88",
+      "symbol": "BSC",
+      "name": "BSC (BSC FARM)",
+      "chain": "bsc",
+      "score": 55,
+      "liquidity_usd": 0.76,
+      "positives": [
+        "Nao e honeypot",
+        "Ownership renunciado",
+        "Taxa baixa (buy 0.0% / sell 0.0%)",
+        "Contrato verificado"
+      ],
+      "negatives": [
+        "Liquidez nao travada (0%)",
+        "Concentrado: top10 tem 100%",
+        "Liquidez baixa $1",
+        "Funcao mint sem limite"
+      ],
+      "data_sources": "GoPlus | Etherscan",
+      "analyzed_at": "2026-04-17 00:56 UTC"
+    },
+    "bsc:0x19d464Ed2a89a37eEB78e39c679BF8bcD195e7bE": {
+      "address": "0x19d464Ed2a89a37eEB78e39c679BF8bcD195e7bE",
+      "symbol": "BSC",
+      "name": "BSC (DRUGGED BSC)",
+      "chain": "bsc",
+      "score": 90,
+      "liquidity_usd": 0.07,
+      "positives": [
+        "Nao e honeypot",
+        "Ownership renunciado",
+        "Taxa baixa (buy 0.0% / sell 0.0%)",
+        "Top10 holders 0% do supply"
+      ],
+      "negatives": [
+        "Liquidez nao travada (0%)",
+        "Contrato nao verificado",
+        "Liquidez baixa $0"
+      ],
+      "data_sources": "Etherscan",
+      "analyzed_at": "2026-04-17 00:57 UTC"
+    },
+    "bsc:0xaeE4251710cc8559008F1707FFEC39392875e3C8": {
+      "address": "0xaeE4251710cc8559008F1707FFEC39392875e3C8",
+      "symbol": "BSC",
+      "name": "BSC (BSCNSwap)",
+      "chain": "bsc",
+      "score": 90,
+      "liquidity_usd": 0.29,
+      "positives": [
+        "Nao e honeypot",
+        "Ownership renunciado",
+        "Taxa baixa (buy 0.0% / sell 0.0%)",
+        "Top10 holders 0% do supply"
+      ],
+      "negatives": [
+        "Liquidez nao travada (0%)",
+        "Contrato nao verificado",
+        "Liquidez baixa $0"
+      ],
+      "data_sources": "Etherscan",
+      "analyzed_at": "2026-04-17 00:57 UTC"
+    },
+    "bsc:0x17098D2643B535BcFC97ee69830e69D33c44efe5": {
+      "address": "0x17098D2643B535BcFC97ee69830e69D33c44efe5",
+      "symbol": "BSC",
+      "name": "BSC (BSCNSwapChain)",
+      "chain": "bsc",
+      "score": 85,
+      "liquidity_usd": 0.04,
+      "positives": [
+        "Nao e honeypot",
+        "Ownership renunciado",
+        "Taxa baixa (buy 0.0% / sell 0.0%)",
+        "Contrato verificado"
+      ],
+      "negatives": [
+        "Liquidez nao travada (0%)",
+        "Concentrado: top10 tem 100%",
+        "Liquidez baixa $0"
+      ],
+      "data_sources": "GoPlus | Etherscan",
+      "analyzed_at": "2026-04-17 00:57 UTC"
+    },
+    "bsc:0x5EE54869Ecd5E752C31aF095187326D4A4D50e1c": {
+      "address": "0x5EE54869Ecd5E752C31aF095187326D4A4D50e1c",
+      "symbol": "Arb Inc",
+      "name": "Arb Inc (Arbitrage Inception)",
+      "chain": "bsc",
+      "score": 100,
+      "liquidity_usd": 0.48,
+      "positives": [
+        "Nao e honeypot",
+        "Liquidez travada 100%",
+        "Ownership renunciado",
+        "Taxa baixa (buy 4.0% / sell 4.0%)",
+        "Contrato verificado"
+      ],
+      "negatives": [
+        "Concentrado: top10 tem 56%",
+        "Liquidez baixa $0"
+      ],
+      "data_sources": "GoPlus | Etherscan",
+      "analyzed_at": "2026-04-17 00:57 UTC"
+    },
+    "bsc:0x54D3bC5329560551686c2108599E186f36f5c393": {
+      "address": "0x54D3bC5329560551686c2108599E186f36f5c393",
+      "symbol": "ARBI",
+      "name": "ARBI (Arbibot)",
+      "chain": "bsc",
+      "score": 85,
+      "liquidity_usd": 1.99,
+      "positives": [
+        "Nao e honeypot",
+        "Ownership renunciado",
+        "Taxa baixa (buy 0.0% / sell 0.0%)",
+        "Contrato verificado"
+      ],
+      "negatives": [
+        "Liquidez nao travada (0%)",
+        "Concentrado: top10 tem 100%",
+        "Liquidez baixa $2"
+      ],
+      "data_sources": "GoPlus | Etherscan",
+      "analyzed_at": "2026-04-17 00:57 UTC"
+    },
+    "bsc:0x93ecd8e9156E6b217514BCFE59837b3807D8F53D": {
+      "address": "0x93ecd8e9156E6b217514BCFE59837b3807D8F53D",
+      "symbol": "KABOSU",
+      "name": "KABOSU (Kabosu)",
+      "chain": "bsc",
+      "score": 70,
+      "liquidity_usd": 1.83,
+      "positives": [
+        "Nao e honeypot",
+        "Ownership renunciado",
+        "Taxa baixa (buy 0.0% / sell 0.0%)",
+        "Top10 holders 45% do supply",
+        "Contrato verificado"
+      ],
+      "negatives": [
+        "Liquidez nao travada (0%)",
+        "Liquidez baixa $2",
+        "Funcao mint sem limite"
+      ],
+      "data_sources": "GoPlus | Etherscan",
+      "analyzed_at": "2026-04-17 00:57 UTC"
+    },
+    "base:0xd07379a755A8f11B57610154861D694b2A0f615a": {
+      "address": "0xd07379a755A8f11B57610154861D694b2A0f615a",
+      "symbol": "BASE",
+      "name": "BASE",
+      "chain": "base",
+      "score": 90,
+      "liquidity_usd": 49164.27,
+      "positives": [
+        "Nao e honeypot",
+        "Ownership renunciado",
+        "Taxa baixa (buy 0.0% / sell 0.0%)",
+        "Top10 holders 14% do supply",
+        "Contrato verificado"
+      ],
+      "negatives": [
+        "Liquidez nao travada (0%)",
+        "Liquidez media $49,164",
+        "Funcao mint sem limite"
+      ],
+      "data_sources": "GoPlus | Etherscan",
+      "analyzed_at": "2026-04-17 00:57 UTC"
+    },
+    "base:0xE59e90e01eBa2754a2EA80AbDb617D4ec7661fF7": {
+      "address": "0xE59e90e01eBa2754a2EA80AbDb617D4ec7661fF7",
+      "symbol": "BASE",
+      "name": "BASE (Base House )",
+      "chain": "base",
+      "score": 75,
+      "liquidity_usd": 35096.72,
+      "positives": [
+        "Nao e honeypot",
+        "Ownership renunciado",
+        "Taxa baixa (buy 0.0% / sell 0.0%)",
+        "Contrato verificado"
+      ],
+      "negatives": [
+        "Liquidez nao travada (0%)",
+        "Concentrado: top10 tem 99%",
+        "Liquidez media $35,097",
+        "Funcao mint sem limite"
+      ],
+      "data_sources": "GoPlus | Etherscan",
+      "analyzed_at": "2026-04-17 00:57 UTC"
+    },
+    "base:0xBce4705b674fa0d1dc3C1BA38cA5cFD989EaE656": {
+      "address": "0xBce4705b674fa0d1dc3C1BA38cA5cFD989EaE656",
+      "symbol": "BASE",
+      "name": "BASE (Base God)",
+      "chain": "base",
+      "score": 85,
+      "liquidity_usd": 574.48,
+      "positives": [
+        "Nao e honeypot",
+        "Ownership renunciado",
+        "Taxa baixa (buy 0.0% / sell 0.0%)",
+        "Contrato verificado"
+      ],
+      "negatives": [
+        "Liquidez nao travada (0%)",
+        "Concentrado: top10 tem 100%",
+        "Liquidez baixa $574"
+      ],
+      "data_sources": "GoPlus | Etherscan",
+      "analyzed_at": "2026-04-17 00:57 UTC"
+    },
+    "base:0x11d63948De284bD8A607B754D1bCB6bb6713a22B": {
+      "address": "0x11d63948De284bD8A607B754D1bCB6bb6713a22B",
+      "symbol": "BASE",
+      "name": "BASE (BrianArmstrongTinkerbell420Inu)",
+      "chain": "base",
+      "score": 65,
+      "liquidity_usd": 8933.43,
+      "positives": [
+        "Nao e honeypot",
+        "Ownership renunciado",
+        "Taxa baixa (buy 0.0% / sell 0.0%)",
+        "Contrato verificado"
+      ],
+      "negatives": [
+        "Liquidez nao travada (0%)",
+        "Concentrado: top10 tem 95%",
+        "Liquidez baixa $8,933",
+        "Blacklist de carteiras ativa"
+      ],
+      "data_sources": "GoPlus | Etherscan",
+      "analyzed_at": "2026-04-17 00:57 UTC"
+    },
+    "base:0x34Edb6B8dFac5ae7e8a06Bbe7D5233CecF40EBA3": {
+      "address": "0x34Edb6B8dFac5ae7e8a06Bbe7D5233CecF40EBA3",
+      "symbol": "BASE",
+      "name": "BASE (BaseUp)",
+      "chain": "base",
+      "score": 40,
+      "liquidity_usd": 0.0,
+      "positives": [
+        "Nao e honeypot",
+        "Ownership renunciado",
+        "Taxa baixa (buy 0.0% / sell 0.0%)",
+        "Contrato verificado"
+      ],
+      "negatives": [
+        "Liquidez nao travada (0%)",
+        "Concentrado: top10 tem 100%",
+        "Sem liquidez (score cap 40)"
+      ],
+      "data_sources": "GoPlus | Etherscan",
+      "analyzed_at": "2026-04-17 00:57 UTC"
+    },
+    "base:0x77Aa329EF790ba5b1FDE73315C3B050F5A977c90": {
+      "address": "0x77Aa329EF790ba5b1FDE73315C3B050F5A977c90",
+      "symbol": "BASE",
+      "name": "BASE",
+      "chain": "base",
+      "score": 40,
+      "liquidity_usd": 0.0,
+      "positives": [
+        "Nao e honeypot",
+        "Ownership renunciado",
+        "Taxa baixa (buy 0.0% / sell 0.0%)",
+        "Contrato verificado"
+      ],
+      "negatives": [
+        "Liquidez nao travada (0%)",
+        "Concentrado: top10 tem 100%",
+        "Sem liquidez (score cap 40)"
+      ],
+      "data_sources": "GoPlus | Etherscan",
+      "analyzed_at": "2026-04-17 00:57 UTC"
+    },
+    "solana:BFiGUxnidogqcZAPVPDZRCfhx3nXnFLYqpQUaUGpump": {
+      "address": "BFiGUxnidogqcZAPVPDZRCfhx3nXnFLYqpQUaUGpump",
+      "symbol": "SPIKE",
+      "name": "SPIKE (SPIKE )",
+      "chain": "solana",
+      "score": 100,
+      "liquidity_usd": 297189.5,
+      "positives": [
+        "Nao foi marcado como rugged",
+        "Rugcheck score alto: 22948",
+        "Mint authority inativa",
+        "Freeze authority inativa",
+        "Liquidez alta $297,190"
+      ],
+      "negatives": [
+        "Risk [danger]: Top 10 holders high ownership",
+        "Risk [danger]: Single holder ownership",
+        "Risk [danger]: High ownership",
+        "Liquidez nao confirmada como travada",
+        "Concentrado: top10 tem 100%"
+      ],
+      "data_sources": "GoPlus | Rugcheck",
+      "analyzed_at": "2026-04-17 00:57 UTC"
+    },
+    "solana:GRMRCsJJEEYXChrSDGaAsuK3W8YooF2R69GcdCXDpump": {
+      "address": "GRMRCsJJEEYXChrSDGaAsuK3W8YooF2R69GcdCXDpump",
+      "symbol": "Pope",
+      "name": "Pope (Pope Leo)",
+      "chain": "solana",
+      "score": 100,
+      "liquidity_usd": 19899.66,
+      "positives": [
+        "Nao foi marcado como rugged",
+        "Rugcheck score alto: 3686",
+        "Sem risks criticos no Rugcheck",
+        "Mint authority inativa",
+        "Freeze authority inativa",
+        "Liquidez minima $19,900"
+      ],
+      "negatives": [
+        "Liquidez nao confirmada como travada",
+        "Concentrado: top10 tem 86%"
+      ],
+      "data_sources": "GoPlus | Rugcheck",
+      "analyzed_at": "2026-04-17 00:57 UTC"
+    },
+    "solana:ENcwYGVhRsEqKpH4SzRH4mcYSGc9Cb6s4WJGS9ojpump": {
+      "address": "ENcwYGVhRsEqKpH4SzRH4mcYSGc9Cb6s4WJGS9ojpump",
+      "symbol": "KOKOP",
+      "name": "KOKOP (Kokopi Koalas)",
+      "chain": "solana",
+      "score": 100,
+      "liquidity_usd": 108210.41,
+      "positives": [
+        "Nao foi marcado como rugged",
+        "Rugcheck score alto: 501",
+        "Sem risks criticos no Rugcheck",
+        "Mint authority inativa",
+        "Freeze authority inativa",
+        "Top10 holders 0% do supply",
+        "Liquidez alta $108,210"
+      ],
+      "negatives": [
+        "Liquidez nao confirmada como travada"
+      ],
+      "data_sources": "GoPlus | Rugcheck",
+      "analyzed_at": "2026-04-17 00:57 UTC"
+    },
+    "solana:CAjtTHvC878f8cZ4zEwdvgjkjFM7rbYN8Mb1go1cpump": {
+      "address": "CAjtTHvC878f8cZ4zEwdvgjkjFM7rbYN8Mb1go1cpump",
+      "symbol": "DUMBMONEY",
+      "name": "DUMBMONEY (Dumb Money)",
+      "chain": "solana",
+      "score": 100,
+      "liquidity_usd": 192338.35,
+      "positives": [
+        "Nao foi marcado como rugged",
+        "Sem risks criticos no Rugcheck",
+        "Mint authority inativa",
+        "Freeze authority inativa",
+        "Top10 holders 0% do supply",
+        "Liquidez alta $192,338"
+      ],
+      "negatives": [
+        "Rugcheck score baixo: 1",
+        "Liquidez nao confirmada como travada"
+      ],
+      "data_sources": "GoPlus | Rugcheck",
+      "analyzed_at": "2026-04-17 00:58 UTC"
+    },
+    "solana:4wbUxZchAQAG7CGTpCzYF7DKHH7ByppA84gc5omDLZno": {
+      "address": "4wbUxZchAQAG7CGTpCzYF7DKHH7ByppA84gc5omDLZno",
+      "symbol": "YOLO",
+      "name": "YOLO (YOU ONLY LIVE ONCE)",
+      "chain": "solana",
+      "score": 100,
+      "liquidity_usd": 28667.04,
+      "positives": [
+        "Nao foi marcado como rugged",
+        "Rugcheck score alto: 2070",
+        "Sem risks criticos no Rugcheck",
+        "Mint authority inativa",
+        "Freeze authority inativa",
+        "Top10 holders 0% do supply",
+        "Liquidez minima $28,667"
+      ],
+      "negatives": [
+        "Liquidez nao confirmada como travada"
+      ],
+      "data_sources": "GoPlus | Rugcheck",
+      "analyzed_at": "2026-04-17 00:58 UTC"
+    },
+    "solana:26jyBRf3nCxAs12tNgsb6ZN2LUHubX7T895t6TtUpump": {
+      "address": "26jyBRf3nCxAs12tNgsb6ZN2LUHubX7T895t6TtUpump",
+      "symbol": "SMARTMONEY",
+      "name": "SMARTMONEY (Smart Money)",
+      "chain": "solana",
+      "score": 100,
+      "liquidity_usd": 29313.89,
+      "positives": [
+        "Nao foi marcado como rugged",
+        "Rugcheck score alto: 2089",
+        "Sem risks criticos no Rugcheck",
+        "Mint authority inativa",
+        "Freeze authority inativa",
+        "Top10 holders 0% do supply",
+        "Liquidez minima $29,314"
+      ],
+      "negatives": [
+        "Liquidez nao confirmada como travada"
+      ],
+      "data_sources": "GoPlus | Rugcheck",
+      "analyzed_at": "2026-04-17 00:58 UTC"
+    },
+    "solana:34q2KmCvapecJgR6ZrtbCTrzZVtkt3a5mHEA3TuEsWYb": {
+      "address": "34q2KmCvapecJgR6ZrtbCTrzZVtkt3a5mHEA3TuEsWYb",
+      "symbol": "LOL",
+      "name": "LOL",
+      "chain": "solana",
+      "score": 100,
+      "liquidity_usd": 297124.12,
+      "positives": [
+        "Nao foi marcado como rugged",
+        "Sem risks criticos no Rugcheck",
+        "Mint authority inativa",
+        "Freeze authority inativa",
+        "Liquidez alta $297,124"
+      ],
+      "negatives": [
+        "Rugcheck score baixo: 1",
+        "Liquidez nao confirmada como travada",
+        "Concentrado: top10 tem 62%"
+      ],
+      "data_sources": "GoPlus | Rugcheck",
+      "analyzed_at": "2026-04-17 00:58 UTC"
+    },
+    "solana:3TYgKwkE2Y3rxdw9osLRSpxpXmSC1C1oo19W9KHspump": {
+      "address": "3TYgKwkE2Y3rxdw9osLRSpxpXmSC1C1oo19W9KHspump",
+      "symbol": "BULL",
+      "name": "BULL (Bull)",
+      "chain": "solana",
+      "score": 100,
+      "liquidity_usd": 302967.78,
+      "positives": [
+        "Nao foi marcado como rugged",
+        "Sem risks criticos no Rugcheck",
+        "Mint authority inativa",
+        "Freeze authority inativa",
+        "Top10 holders 0% do supply",
+        "Liquidez alta $302,968"
+      ],
+      "negatives": [
+        "Rugcheck score baixo: 1",
+        "Liquidez nao confirmada como travada"
+      ],
+      "data_sources": "GoPlus | Rugcheck",
+      "analyzed_at": "2026-04-17 00:58 UTC"
+    },
+    "solana:DXxCyvs4zSrmfQX7zBM7jVb8ZGXW3UTG3QuuJWorpump": {
+      "address": "DXxCyvs4zSrmfQX7zBM7jVb8ZGXW3UTG3QuuJWorpump",
+      "symbol": "Meowl",
+      "name": "Meowl (Meowl The Cat)",
+      "chain": "solana",
+      "score": 100,
+      "liquidity_usd": 30256.42,
+      "positives": [
+        "Nao foi marcado como rugged",
+        "Rugcheck score alto: 501",
+        "Sem risks criticos no Rugcheck",
+        "Mint authority inativa",
+        "Freeze authority inativa",
+        "Top10 holders 0% do supply",
+        "Liquidez minima $30,256"
+      ],
+      "negatives": [
+        "Liquidez nao confirmada como travada"
+      ],
+      "data_sources": "GoPlus | Rugcheck",
+      "analyzed_at": "2026-04-17 00:58 UTC"
+    },
+    "solana:5aKvh7uwKNn5CQcXd5hxKJLp7wR1GE4HcgigvhL3pump": {
+      "address": "5aKvh7uwKNn5CQcXd5hxKJLp7wR1GE4HcgigvhL3pump",
+      "symbol": "PND",
+      "name": "PND (PandaCoin)",
+      "chain": "solana",
+      "score": 95,
+      "liquidity_usd": 17215.99,
+      "positives": [
+        "Nao foi marcado como rugged",
+        "Sem risks criticos no Rugcheck",
+        "Mint authority inativa",
+        "Freeze authority inativa",
+        "Liquidez minima $17,216"
+      ],
+      "negatives": [
+        "Rugcheck score baixo: 1",
+        "Liquidez nao confirmada como travada",
+        "Concentrado: top10 tem 100%"
+      ],
+      "data_sources": "GoPlus | Rugcheck",
+      "analyzed_at": "2026-04-17 00:58 UTC"
+    },
+    "solana:7udhnYmvHJFgRYGBeAioQNfzd95JtGTUjrRwNe8VCoG4": {
+      "address": "7udhnYmvHJFgRYGBeAioQNfzd95JtGTUjrRwNe8VCoG4",
+      "symbol": "FOF",
+      "name": "FOF (Federal Oil Fund)",
+      "chain": "solana",
+      "score": 100,
+      "liquidity_usd": 106983.15,
+      "positives": [
+        "Nao foi marcado como rugged",
+        "Sem risks criticos no Rugcheck",
+        "Mint authority inativa",
+        "Freeze authority inativa",
+        "Top10 holders 0% do supply",
+        "Liquidez alta $106,983"
+      ],
+      "negatives": [
+        "Rugcheck score baixo: 1",
+        "Liquidez nao confirmada como travada"
+      ],
+      "data_sources": "GoPlus | Rugcheck",
+      "analyzed_at": "2026-04-17 00:58 UTC"
+    },
+    "solana:82mTcMSHWs9UHggQgS5to46mbkiH8pmhjnArdyPyVCAT": {
+      "address": "82mTcMSHWs9UHggQgS5to46mbkiH8pmhjnArdyPyVCAT",
+      "symbol": "AGC",
+      "name": "AGC (Alien Green Cat)",
+      "chain": "solana",
+      "score": 100,
+      "liquidity_usd": 253274.18,
+      "positives": [
+        "Nao foi marcado como rugged",
+        "Rugcheck score alto: 501",
+        "Sem risks criticos no Rugcheck",
+        "Mint authority inativa",
+        "Freeze authority inativa",
+        "Liquidez alta $253,274"
+      ],
+      "negatives": [
+        "Liquidez nao confirmada como travada",
+        "Concentrado: top10 tem 100%"
+      ],
+      "data_sources": "GoPlus | Rugcheck",
+      "analyzed_at": "2026-04-17 00:58 UTC"
+    },
+    "solana:iRTXNKLbt9ojybsGx1CJpdM4Ze6ErWVQX1A8cUc3MYx": {
+      "address": "iRTXNKLbt9ojybsGx1CJpdM4Ze6ErWVQX1A8cUc3MYx",
+      "symbol": "IRT",
+      "name": "IRT (International Rebuilding Trust)",
+      "chain": "solana",
+      "score": 100,
+      "liquidity_usd": 213961.15,
+      "positives": [
+        "Nao foi marcado como rugged",
+        "Rugcheck score alto: 501",
+        "Sem risks criticos no Rugcheck",
+        "Mint authority inativa",
+        "Freeze authority inativa",
+        "Liquidez alta $213,961"
+      ],
+      "negatives": [
+        "Liquidez nao confirmada como travada",
+        "Concentrado: top10 tem 100%"
+      ],
+      "data_sources": "GoPlus | Rugcheck",
+      "analyzed_at": "2026-04-17 00:58 UTC"
+    },
+    "solana:GWrbDx2K7vngKTcwipwEh99ia11DymNgERDAE7nCjNjc": {
+      "address": "GWrbDx2K7vngKTcwipwEh99ia11DymNgERDAE7nCjNjc",
+      "symbol": "MSBR",
+      "name": "MSBR (Microstrategy Bitcoin Reserve)",
+      "chain": "solana",
+      "score": 100,
+      "liquidity_usd": 153174.51,
+      "positives": [
+        "Nao foi marcado como rugged",
+        "Rugcheck score alto: 10001",
+        "Sem risks criticos no Rugcheck",
+        "Mint authority inativa",
+        "Freeze authority inativa",
+        "Liquidez alta $153,175"
+      ],
+      "negatives": [
+        "Liquidez nao confirmada como travada",
+        "Concentrado: top10 tem 100%"
+      ],
+      "data_sources": "GoPlus | Rugcheck",
+      "analyzed_at": "2026-04-17 00:58 UTC"
+    },
+    "solana:2xm2WZ9krE2YAArRC6S6ZzJAYgN813K6hh2dawKjpump": {
+      "address": "2xm2WZ9krE2YAArRC6S6ZzJAYgN813K6hh2dawKjpump",
+      "symbol": "PANDU",
+      "name": "PANDU (Pandu Pandas)",
+      "chain": "solana",
+      "score": 100,
+      "liquidity_usd": 91584.22,
+      "positives": [
+        "Nao foi marcado como rugged",
+        "Rugcheck score alto: 4419",
+        "Sem risks criticos no Rugcheck",
+        "Mint authority inativa",
+        "Freeze authority inativa",
+        "Top10 holders 0% do supply",
+        "Liquidez boa $91,584"
+      ],
+      "negatives": [
+        "Liquidez nao confirmada como travada"
+      ],
+      "data_sources": "GoPlus | Rugcheck",
+      "analyzed_at": "2026-04-17 00:58 UTC"
+    },
+    "solana:7mNWyQYJfvf5gJDVwXL8aw8m9Qmo4MDKrLHNaESdpump": {
+      "address": "7mNWyQYJfvf5gJDVwXL8aw8m9Qmo4MDKrLHNaESdpump",
+      "symbol": "unt",
+      "name": "unt",
+      "chain": "solana",
+      "score": 100,
+      "liquidity_usd": 52904.86,
+      "positives": [
+        "Nao foi marcado como rugged",
+        "Sem risks criticos no Rugcheck",
+        "Mint authority inativa",
+        "Freeze authority inativa",
+        "Liquidez boa $52,905"
+      ],
+      "negatives": [
+        "Rugcheck score baixo: 1",
+        "Liquidez nao confirmada como travada",
+        "Concentrado: top10 tem 100%"
+      ],
+      "data_sources": "GoPlus | Rugcheck",
+      "analyzed_at": "2026-04-17 00:58 UTC"
+    },
+    "solana:FFvp48WygUSxCCNP3n9Zu5G7F2yatwXQHbpD2Mkkpump": {
+      "address": "FFvp48WygUSxCCNP3n9Zu5G7F2yatwXQHbpD2Mkkpump",
+      "symbol": "Skibidi",
+      "name": "Skibidi (Skibidi Toilet)",
+      "chain": "solana",
+      "score": 100,
+      "liquidity_usd": 67629.31,
+      "positives": [
+        "Nao foi marcado como rugged",
+        "Rugcheck score alto: 13999",
+        "Mint authority inativa",
+        "Freeze authority inativa",
+        "Top10 holders 0% do supply",
+        "Liquidez boa $67,629"
+      ],
+      "negatives": [
+        "Risk [danger]: Large Amount of LP Unlocked",
+        "Risk [danger]: Low Liquidity",
+        "Liquidez nao confirmada como travada"
+      ],
+      "data_sources": "GoPlus | Rugcheck",
+      "analyzed_at": "2026-04-17 00:58 UTC"
+    },
+    "solana:FBbnzHwJ1WHYwP425cqMNb2t7o7sm6AXQjsQ3sZRpump": {
+      "address": "FBbnzHwJ1WHYwP425cqMNb2t7o7sm6AXQjsQ3sZRpump",
+      "symbol": "JAK",
+      "name": "JAK (Jak)",
+      "chain": "solana",
+      "score": 100,
+      "liquidity_usd": 93105.36,
+      "positives": [
+        "Nao foi marcado como rugged",
+        "Sem risks criticos no Rugcheck",
+        "Mint authority inativa",
+        "Freeze authority inativa",
+        "Top10 holders 48% do supply",
+        "Liquidez boa $93,105"
+      ],
+      "negatives": [
+        "Rugcheck score baixo: 1",
+        "Liquidez nao confirmada como travada"
+      ],
+      "data_sources": "GoPlus | Rugcheck",
+      "analyzed_at": "2026-04-17 00:58 UTC"
+    },
+    "solana:zjGjGR9FYrxAopmpeqceisHrK17fvYV2UW4UBCPpump": {
+      "address": "zjGjGR9FYrxAopmpeqceisHrK17fvYV2UW4UBCPpump",
+      "symbol": "SOYJAK",
+      "name": "SOYJAK (Soyjak)",
+      "chain": "solana",
+      "score": 95,
+      "liquidity_usd": 46197.41,
+      "positives": [
+        "Nao foi marcado como rugged",
+        "Sem risks criticos no Rugcheck",
+        "Mint authority inativa",
+        "Freeze authority inativa",
+        "Liquidez minima $46,197"
+      ],
+      "negatives": [
+        "Rugcheck score baixo: 1",
+        "Liquidez nao confirmada como travada",
+        "Concentrado: top10 tem 100%"
+      ],
+      "data_sources": "GoPlus | Rugcheck",
+      "analyzed_at": "2026-04-17 00:59 UTC"
+    },
+    "solana:EruqNUg7yVD2sTzRpRv8RcbAG9gpUREswd5soqKTxz1m": {
+      "address": "EruqNUg7yVD2sTzRpRv8RcbAG9gpUREswd5soqKTxz1m",
+      "symbol": "ZYNX",
+      "name": "ZYNX",
+      "chain": "solana",
+      "score": 100,
+      "liquidity_usd": 30773.45,
+      "positives": [
+        "Nao foi marcado como rugged",
+        "Sem risks criticos no Rugcheck",
+        "Mint authority inativa",
+        "Freeze authority inativa",
+        "Top10 holders 0% do supply",
+        "Liquidez minima $30,773"
+      ],
+      "negatives": [
+        "Rugcheck score baixo: 1",
+        "Liquidez nao confirmada como travada"
+      ],
+      "data_sources": "GoPlus | Rugcheck",
+      "analyzed_at": "2026-04-17 00:59 UTC"
+    },
+    "solana:E71ExYJysQfUfjEdnjvDRfRdQ1d3GQDDWXZoSvzJpump": {
+      "address": "E71ExYJysQfUfjEdnjvDRfRdQ1d3GQDDWXZoSvzJpump",
+      "symbol": "VET",
+      "name": "VET",
+      "chain": "solana",
+      "score": 100,
+      "liquidity_usd": 13785.65,
+      "positives": [
+        "Nao foi marcado como rugged",
+        "Rugcheck score alto: 2570",
+        "Sem risks criticos no Rugcheck",
+        "Mint authority inativa",
+        "Freeze authority inativa",
+        "Liquidez minima $13,786"
+      ],
+      "negatives": [
+        "Liquidez nao confirmada como travada",
+        "Concentrado: top10 tem 100%"
+      ],
+      "data_sources": "GoPlus | Rugcheck",
+      "analyzed_at": "2026-04-17 00:59 UTC"
+    }
+  },
+  "last_run": "2026-04-17T00:59:07.635619+00:00"
+}
